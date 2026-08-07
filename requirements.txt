@@ -10,3 +10,4 @@ torch
 accelerate
 pandas
 python-dotenv
+streamlit-mic-recorder
