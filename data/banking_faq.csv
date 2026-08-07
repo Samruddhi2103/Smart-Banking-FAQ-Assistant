@@ -1,0 +1,102 @@
+Question,Answer,Category
+What is KYC?,KYC stands for Know Your Customer. It is used to verify the identity and address of customers.,KYC
+Why is KYC required?,"KYC helps banks prevent fraud, money laundering, and identity theft.",KYC
+What documents are accepted for KYC?,"Aadhaar Card, PAN Card, Passport, Driving License, and Voter ID are commonly accepted.",KYC
+How can I update my KYC?,You can update your KYC by visiting the branch or through online banking if the bank provides that facility.,KYC
+How can I open a savings account?,Visit the nearest branch or apply online with valid identity and address proof.,Savings Account
+What documents are required for a savings account?,"Aadhaar Card, PAN Card, passport-size photographs, and address proof are generally required.",Savings Account
+What is the minimum balance for a savings account?,The minimum balance depends on the type of account and the bank's policy.,Savings Account
+Can I open a joint savings account?,"Yes, most banks allow customers to open joint savings accounts.",Savings Account
+What is a current account?,A current account is designed for businesses and allows frequent transactions.,Current Account
+Who can open a current account?,"Individuals, businesses, firms, and organizations can open a current account.",Current Account
+What is a fixed deposit?,A fixed deposit is an investment where money is deposited for a fixed period at a fixed interest rate.,Fixed Deposit
+Can I withdraw a fixed deposit before maturity?,"Yes, premature withdrawal is allowed, but penalty charges may apply.",Fixed Deposit
+What is a recurring deposit?,A recurring deposit allows customers to deposit a fixed amount every month for a specific period.,Recurring Deposit
+How do I apply for a home loan?,"Apply online or visit the bank with identity proof, income proof, and property documents.",Loan
+What documents are required for a home loan?,"Aadhaar Card, PAN Card, income proof, bank statements, and property documents are generally required.",Loan
+What is a personal loan?,A personal loan is an unsecured loan that can be used for personal expenses.,Loan
+How long does loan approval take?,Loan approval depends on document verification and the bank's internal process.,Loan
+Can I prepay my loan?,"Yes, many banks allow loan prepayment subject to their policies.",Loan
+What is EMI?,"EMI stands for Equated Monthly Installment, the fixed monthly payment made toward a loan.",Loan
+How is EMI calculated?,"EMI is calculated based on the loan amount, interest rate, and repayment tenure.",Loan
+What is a debit card?,A debit card allows customers to withdraw cash and make purchases directly from their bank account.,Debit Card
+How can I block my debit card?,"Use mobile banking, internet banking, customer care, or visit a branch.",Debit Card
+What should I do if my debit card is lost?,Immediately block the card and report it to the bank.,Debit Card
+What is a credit card?,A credit card allows customers to borrow money up to a predefined credit limit.,Credit Card
+How do I apply for a credit card?,Apply online or visit the nearest branch with the required documents.,Credit Card
+What is the credit limit?,The credit limit is the maximum amount that can be spent using a credit card.,Credit Card
+What is internet banking?,Internet banking allows customers to access banking services online.,Internet Banking
+How do I register for internet banking?,Register through the bank's website or by visiting the branch.,Internet Banking
+What services are available in internet banking?,"Fund transfer, bill payment, balance inquiry, statement download, and more.",Internet Banking
+What is mobile banking?,Mobile banking allows customers to access banking services through a mobile application.,Mobile Banking
+How do I activate mobile banking?,Download the bank's app and register using your account details and mobile number.,Mobile Banking
+What is UPI?,UPI is a real-time payment system that enables instant money transfers between bank accounts.,UPI
+How do I create a UPI ID?,Create a UPI ID through a UPI-enabled application linked to your bank account.,UPI
+What is NEFT?,NEFT is an electronic fund transfer system operated by the Reserve Bank of India.,NEFT
+What is RTGS?,RTGS enables real-time transfer of high-value funds between bank accounts.,RTGS
+What is IMPS?,IMPS is an instant payment service available 24x7 for transferring funds.,IMPS
+What is a cheque book?,A cheque book contains printed cheques that can be used to make payments.,Cheque
+How can I apply for a cheque book?,"Request it through internet banking, mobile banking, or by visiting a branch.",Cheque
+How do I check my account balance?,"Check your balance through ATM, mobile banking, internet banking, SMS, or passbook.",Account
+What is a bank statement?,A bank statement is a record of all transactions in your account during a specific period.,Account
+How can I download my bank statement?,Download it using internet banking or mobile banking.,Account
+What should I do if I forget my internet banking password?,Use the 'Forgot Password' option or contact the bank for assistance.,Internet Banking
+What should I do if an ATM transaction fails?,Contact your bank and keep the transaction receipt for reference.,ATM
+How can I find the nearest ATM?,Use the bank's website or mobile application to locate nearby ATMs.,ATM
+What are banking hours?,Banking hours vary by branch and bank but are usually displayed on the official website.,General
+What is customer care?,Customer care provides assistance for banking services and complaints.,General
+How do I register a complaint?,"Register a complaint through customer care, the bank website, or by visiting the branch.",Complaint
+How can I update my mobile number?,Visit the branch or use internet banking if the facility is available.,Account
+Is internet banking safe?,"Yes, if you use strong passwords, OTP verification, and avoid sharing confidential information.",Security
+How can I protect my bank account from fraud?,"Never share your OTP, PIN, passwords, or CVV with anyone and verify official communications.",Security
+,,
+What is a bank account?,"A bank account is a financial account where customers can deposit, withdraw, and manage money.",General
+What is the difference between a savings and current account?,"A savings account is for individuals to save money, while a current account is designed for businesses with frequent transactions.",General
+Can I open a bank account online?,"Yes, many banks allow online account opening through digital KYC.",Account Opening
+Is PAN card mandatory for opening a bank account?,"Yes, PAN is generally required. If unavailable, Form 60 may be accepted as per regulations.",Account Opening
+What is e-KYC?,e-KYC is an electronic Know Your Customer process using Aadhaar authentication.,KYC
+How long does it take to open a bank account?,It usually takes one to three working days after document verification.,Account Opening
+Can a minor open a bank account?,"Yes, banks offer special savings accounts for minors under the supervision of a guardian.",Savings Account
+What is a nominee in a bank account?,A nominee is the person authorized to receive the account balance in case of the account holder's death.,Nomination
+How can I add a nominee to my account?,Submit a nomination form at the branch or use online banking if available.,Nomination
+Can I change my nominee later?,"Yes, you can update or change the nominee anytime by submitting the required request.",Nomination
+What is a passbook?,"A passbook records all deposits, withdrawals, and account transactions.",Account
+How do I update my passbook?,Visit your bank branch or use a passbook printing kiosk.,Account
+What is an ATM PIN?,An ATM PIN is a secret 4 or 6 digit number used to authenticate ATM transactions.,ATM
+How can I change my ATM PIN?,"You can change it through an ATM, internet banking, or mobile banking.",ATM
+What should I do if I forget my ATM PIN?,"Request a new PIN through internet banking, mobile banking, or visit the branch.",ATM
+What is cash withdrawal limit at ATM?,The withdrawal limit depends on your bank and account type.,ATM
+What should I do if the ATM retains my card?,Contact the bank immediately and block the card if necessary.,ATM
+What is a virtual debit card?,A virtual debit card is a digital card used for secure online transactions.,Debit Card
+Can I use my debit card internationally?,"Yes, if international transactions are enabled on your card.",Debit Card
+How do I activate my new debit card?,"Activate it through ATM, mobile banking, or internet banking.",Debit Card
+What is contactless payment?,Contactless payment allows you to pay by tapping your card or phone without inserting the card.,Payments
+What is UPI PIN?,A UPI PIN is a secure PIN used to authorize UPI transactions.,UPI
+Can I reset my UPI PIN?,"Yes, you can reset it using your debit card details in the UPI app.",UPI
+What is the maximum UPI transaction limit?,The limit depends on the bank and RBI guidelines.,UPI
+Why did my UPI transaction fail?,"It may fail due to network issues, incorrect PIN, or insufficient balance.",UPI
+Can I transfer money without adding a beneficiary?,UPI allows transfers without adding beneficiaries using a UPI ID.,UPI
+What is the difference between NEFT and RTGS?,"NEFT is used for general fund transfers, while RTGS is meant for high-value real-time transfers.",Payments
+What is IMPS used for?,"IMPS enables instant fund transfers 24x7, including holidays.",Payments
+What is a bank locker?,A bank locker is a secure facility for storing valuables and important documents.,Locker
+How can I apply for a bank locker?,Submit an application at your bank branch and pay the applicable locker charges.,Locker
+Is there an annual fee for bank lockers?,"Yes, banks charge annual locker rent depending on locker size.",Locker
+What is net banking?,Net banking is another name for internet banking that allows online banking services.,Internet Banking
+Can I transfer money using internet banking?,"Yes, internet banking supports NEFT, RTGS, and IMPS fund transfers.",Internet Banking
+How do I check loan eligibility?,"Loan eligibility depends on income, age, repayment capacity, and bank policies.",Loan
+Can I apply for an education loan online?,"Yes, many banks provide online education loan applications.",Education Loan
+What documents are needed for an education loan?,"Admission letter, fee structure, identity proof, income proof, and academic records are generally required.",Education Loan
+What is a gold loan?,A gold loan is a secured loan where gold ornaments are pledged as collateral.,Gold Loan
+Can I repay my loan before the due date?,"Yes, many banks allow early repayment or foreclosure based on their policy.",Loan
+What is loan foreclosure?,Loan foreclosure means closing the loan before the end of its tenure by paying the outstanding balance.,Loan
+What is the loan tenure?,Loan tenure is the total period over which the loan is repaid.,Loan
+What is interest rate?,Interest rate is the percentage charged by the bank on borrowed money.,Loan
+What is simple interest?,Simple interest is calculated only on the principal amount.,Loan
+What is compound interest?,Compound interest is calculated on both the principal and accumulated interest.,Loan
+What is an NRI account?,An NRI account is a bank account designed for Non-Resident Indians.,NRI Banking
+What is an NRE account?,An NRE account is used to deposit foreign income in Indian Rupees.,NRI Banking
+What is an NRO account?,An NRO account is used to manage income earned in India by NRIs.,NRI Banking
+How do I report unauthorized transactions?,"Inform the bank immediately through customer care, mobile app, or the nearest branch.",Security
+What is phishing?,Phishing is a fraudulent attempt to steal banking information through fake emails or websites.,Security
+What is OTP?,OTP stands for One-Time Password used to verify secure banking transactions.,Security
+Why should I never share my OTP?,Sharing your OTP can allow fraudsters to access your account and perform unauthorized transactions.,Security
