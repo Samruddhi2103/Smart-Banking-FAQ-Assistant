@@ -127,11 +127,11 @@ streamlit run app.py
 
 ## Home Page
 
-_Add a screenshot here_
+![Home Page](assets/home.png)
 
-## Answer Generation
+## 📄 Source Documents
 
-_Add a screenshot here_
+![Source Documents](assets/source-docs.png)
 
 ---
 
